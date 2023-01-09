@@ -1,8 +1,8 @@
 #Hello guys today were gonna implement gradient descent algorithm
 #We devide in in 3 functions
 
-from cost_function import *
-from compute_gradient import *
+from cost_function import compute_cost
+from compute_gradient import compute_gradient
 import math
 import numpy as np
 
